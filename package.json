@@ -1,0 +1,10 @@
+{
+  "name": "node-hid-example",
+  "version": "0.0.1",
+  "description": "Example of reading from USB HID magnetic card reader",
+  "main": "read.coffee",
+  "dependencies": {
+    "node-hid": "^0.3.2"
+  },
+  "author": "Jack Lewis"
+}
